@@ -4,7 +4,7 @@ This repository contains an Anki deck for the content of the book [An Introducti
 
 To repeat and memorize the main content of the book, I have developed an Anki deck while reading the book. [Anki](https://apps.ankiweb.net/) is an open-source software for learning based on flashcards and spaced repetition.
 
-**You can download the deck via the following link: [islr-anki-v1.apkg](islr-anki-v1.apkg)**
+**You can download the deck [here via AnkiWeb](https://ankiweb.net/shared/info/1767251100) or [here directly from this repository](islr-anki-v1.apkg).**
 
 This deck is *not* meant to replace reading the book. Rather, it is supposed to help repeating the main terms and core content of the chapters. It does *not* cover the conceptual and practical exercises from the book, which are typically longer, more detailed and require deeper thinking. I have created cards for elements that I considered relevant, but this is certainly a judgment call.
 
