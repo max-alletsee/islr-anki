@@ -4,7 +4,7 @@ This repository contains an Anki deck for the content of the book [An Introducti
 
 To repeat and memorize the main content of the book, I have developed an Anki deck while reading the book. [Anki](https://apps.ankiweb.net/) is an open-source software for learning based on flashcards and spaced repetition.
 
-**You can download the deck [here via AnkiWeb](https://ankiweb.net/shared/info/1767251100) or [here directly from this repository](islr-anki-v1.apkg).**
+**You can download the deck [here via AnkiWeb](https://ankiweb.net/shared/info/1767251100) or [here directly from this repository](islr-anki-v1-current.apkg).**
 
 This deck is *not* meant to replace reading the book. Rather, it is supposed to help repeating the main terms and core content of the chapters. It does *not* cover the conceptual and practical exercises from the book, which are typically longer, more detailed and require deeper thinking. I have created cards for elements that I considered relevant, but this is certainly a judgment call.
 
@@ -12,11 +12,12 @@ If you would like to suggest adding cards or found mistakes in existing cards, p
 
 ## Features
 
-* 200 cards
+* approx. 180 cards
 * covering all 10 chapters
 * each card contains a note with the corresponding page in the book (7th edition) for further reading if required
 * each card is tagged with the corresponding chapter number, allowing to focus on specific chapters or to use the deck while reading along
 
 ## Version History
 
-*v1, 2020-07-24*: first version with 200 cards
+* *v1, 2020-07-24*: first version with 200 cards
+* *v1.1, 2020-08-05* (current version): bug fix in chapter 7 (basic cards had by accident been "basic + reversed" cards), bug fix in chapter 3 for note ID 1587360112702 (optional reversed card, but answer for second reverse was missing), fixing some typos, splitting overly complex card from chapter2 into several cards
